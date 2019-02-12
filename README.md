@@ -1,5 +1,7 @@
 # Neo4j
 
+![Ejemplo que se puede generar importando la carpeta migration](grafos.png)
+
 ## Link para instalarlo en linux
 
 * https://www.youtube.com/watch?v=k3h_y9w_7l4
@@ -15,7 +17,7 @@
 
 (Se puede consultar con el cliente graphiql https://electronjs.org/apps/graphiql)
 
-## En la carpeta migrations hay unos csv para importar usando las queries de abajo y asi ver como se crean los nodos y relaciones
+#### En la carpeta migrations hay unos csv para importar usando las queries de abajo y asi ver como se crean los nodos y relaciones
 
 ## Queries utiles
 
