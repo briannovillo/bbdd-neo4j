@@ -1,5 +1,6 @@
 # Neo4j
 
+Ejemplo que se puede generar importando la carpeta migration
 ![Ejemplo que se puede generar importando la carpeta migration](grafos.png)
 
 ## Link para instalarlo en linux
